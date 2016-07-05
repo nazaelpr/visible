@@ -1,0 +1,109 @@
+header
+{
+	/*background: red;*/
+}
+
+.menu
+{
+	display: inline-block;
+	position: absolute;
+	right: 10px;
+	font-size: 15px;
+}
+
+.logo
+{
+	width: 60px;
+	height: 60px;
+	margin: 10px;
+	margin-left: 20px;
+}
+
+body
+{
+	margin: 0;
+}
+
+.menu li
+{
+	display: inline-block;
+	margin: 20px;
+
+}
+
+.menu a
+{
+	color: black;
+	text-decoration: none;
+} 
+
+section
+{
+	/*background-color: peru;*/
+}
+
+.imgprincipal
+{
+	position: relative;
+	left: 280px;
+	margin-top:30px;
+}
+
+
+.contenedor{
+    margin:0px;
+    position: relative;
+    top:30px;
+    left: 570px;
+}
+
+
+.button
+{
+    padding: 7px 12px;
+    border-radius: 12px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 18px;
+    background: #58D3F7 ;
+}
+
+h1{    
+    text-align: center;
+    margin-top: 80px;
+    font-size: 25px;
+}
+
+footer
+{
+	/*background-color: green;*/
+	padding: 0;
+}
+
+.menu-social
+{
+	text-align: center;
+	margin: 0;
+	padding-top: 5px;
+}
+
+.btn-social
+{
+	width:40px;
+	height: 40px;
+}
+
+
+.menu-social li
+{
+	display: inline-block;
+	margin-right: 30px;
+}
+
+.copyright
+{
+	text-align: center;
+	position: relative;
+}
